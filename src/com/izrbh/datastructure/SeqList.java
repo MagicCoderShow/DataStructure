@@ -1,4 +1,4 @@
-package com.izrbh.datastructure.list;
+package com.izrbh.datastructure;
 
 /**
  * 顺序线性表

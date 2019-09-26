@@ -1,4 +1,4 @@
-package com.izrbh.datastructure.list;
+package com.izrbh.datastructure;
 
 /**
  * 单链表
